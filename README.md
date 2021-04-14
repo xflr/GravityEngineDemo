@@ -14,6 +14,8 @@ To compile it and run on Linux you can use g++ linking either the package module
 
 Then, check the binary permissions to execute (chmod) and run by "./ge_demo"
 
+For Windows OS, just download the VS Project from "Windows" folder and install the SDL librarys in your project as described on "http://wiki.libsdl.org/Installation"
+
 Feel free to use on your project.
 
 Alexandre Bressane
