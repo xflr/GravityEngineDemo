@@ -1,8 +1,8 @@
 GRAVITY ENGINE DEMO by Alexandre Bressane
 
-Originally written in C++ using VS (windows)
+Originally written in C / C++ using Visual Studio IDE and libs (WINDOWS folder)
 
-Port made for Linux x64
+Port made for Linux x64 using just SDL2 and Linux native libs (LINUX folder)
 
 Requires SDL2 Libs imported on Visual Studio (Windows)
 
